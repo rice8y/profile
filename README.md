@@ -1,11 +1,13 @@
 # Eito Yoneyama
 
-Undergraduate Researcher | Natural Language Processing | Computer Science
+Graduate Student (M1) | Natural Language Processing | Computer Science
 
 ## About Me
 
-I am a fourth-year undergraduate student at the Department of Computer Science, Faculty of Engineering, Ehime University, Japan.  
-Currently, I am conducting research in the **Natural Language Processing Laboratory**.
+I am a first-year master's student in the **Mathematical and Information Science Program**, Graduate School of Science and Engineering at Ehime University, Japan.
+Previously, I received my bachelor's degree from the Department of Computer Science, Faculty of Engineering, Ehime University.
+
+I am currently conducting research in the **Natural Language Processing Laboratory**.
 
 <!-- 
 ## Research & Projects
